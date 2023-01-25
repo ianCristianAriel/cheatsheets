@@ -11,6 +11,5 @@ Aquellos codigos que valla necesitando y aprendiendo durante mi viaje para conve
  
 - 📔SQL
  - 📔MySQL
- - Sqlite
  
 - 🐧Consola de linux
