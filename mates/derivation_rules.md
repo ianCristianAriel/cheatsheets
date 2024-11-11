@@ -30,9 +30,9 @@
 | $arcsin(x)$           | $\frac{1}{\sqrt{1 - x^2}}$        | Arcoseno                              |
 | $\arccos(x)$           | $-\frac{1}{\sqrt{1 - x^2}}$       | Arcocoseno                            |
 | $arctan(x)$           | $\frac{1}{1 + x^2}$               | Arcotangente                          |
-| $arccot(x)$           | $-\frac{1}{1 + x^2}$              | Arcocotangente                        |
-| $arcsec(x)$           | $\frac{1}{|x|\sqrt{x^2 - 1}}$     | Arcosecante                           |
-| $arccsc(x)$           | $-\frac{1}{|x|\sqrt{x^2 - 1}}$    | Arcocosecante                         |
+| $arccot(x)$           | $-\frac{1}{1 + x^2}$             | Arcocotangente                        |
+| $arcsec(x)$ | $\frac{1}{\mid x\mid\sqrt{x^2-1}}$ | Arcosecante |
+| $arccsc(x)$ | $-\frac{1}{\mid x\mid\sqrt{x^2-1}}$ | Arcocosecante |
 
 ## 4. Reglas de Derivación Avanzadas
 
